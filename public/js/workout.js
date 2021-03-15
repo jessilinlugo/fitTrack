@@ -79,7 +79,7 @@ function renderNoWorkoutText() {
 
   p.appendChild(strong);
   container.appendChild(p);
-}
+};
 
 initWorkout();
 
