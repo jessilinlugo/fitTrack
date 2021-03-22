@@ -205,5 +205,8 @@ function workoutNames(data) {
 }
 
 // get all workout data from back-end
-API.getWorkoutsInRange().then(populateChart(data));
+API.getWorkoutsInRange().then(data => {
+  console.log(data)
+  populateChart(data)
+});
 
