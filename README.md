@@ -8,6 +8,8 @@ Link to my deployed application : <a href="https://limitless-shore-41269.herokua
 
 ------------
 
+FitTrack is an application that tracks your different work outs. Input either a Cardio or Resistance workout, fill in the necessary information, and either complete a workout all at once, or pick up where you left off with the 'Continue Workout' button. After a week of workouts, the dashboard is filled with bar graphs, pie charts, and all the necessary data to let you know how much you've exercised. 
+
 MongoDB is great! I prefer it so much more than MySQL and makes databases so much easier to understand and establish. 
 
 I struggled a little bit with the routing, as API calls are still not my strong suit, but I'm definitely getting better. I have a great tutor, and a great study group that really focuses on making sure I understand the concept instead of zeroing in on whether or not the assignment is done. 
